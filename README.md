@@ -18,8 +18,13 @@ conda activate xgboost_training
 1. Matplotlib (for plotting)
 1. Scikit-Learn (for datasets and metrics)
 
-## for osx-arm64
+## Troubleshooting
+- for osx-arm64
+```bash
 conda install numpy pandas scipy scikit-learn matplotlib joblib xgboost
+```
 
-## for osx-64
+- for osx-64
+```bash
 conda install numpy=1.19.2 pandas=1.0.1 scipy=1.6.1 scikit-learn=0.24.0 matplotlib=3.1.3 joblib=0.15.1 xgboost=1.3.1
+```
