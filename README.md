@@ -13,7 +13,6 @@ conda activate xgboost_training
 ```
 
 ## Dependencies
-- Key libraries used in this project:
 1. XGBoost
 1. SHAP (for explainability)
 1. Matplotlib (for plotting)
